@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+.header {
+  margin: auto;
+  width: 25%;
+  text-align: left;
+}
+h1 {
+  color: red;
+}
+
+.centered {
+  margin: 40vh auto;
+  width: 25%;
+  text-align: left;
+}
+
+button {
+  text-align: center;
+  border: none;
+  text-decoration: none;
+  width: 6vh;
+  padding: 4px;
+  background-color: gray;
+  color: lightgray;
+}
+
+button:hover {
+  background-color: lightgray;
+  color: gray;
+  cursor: pointer;
+}

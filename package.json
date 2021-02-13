@@ -1,0 +1,15 @@
+{
+  "name": "simpleExpressAddulator",
+  "version": "1.0.0",
+  "description": "Simple calculator web-app",
+  "main": "addulator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin McCarthy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
