@@ -1,7 +1,7 @@
 {
-  "name": "simpleExpressAddulator",
+  "name": "expressAddulator",
   "version": "1.0.0",
-  "description": "Simple calculator web-app",
+  "description": "Simple addition calculator web-app using Node.js and Express.js",
   "main": "addulator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
